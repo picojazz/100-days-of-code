@@ -9,6 +9,12 @@
 
 **Link to work:** [example](http://www.example.com)
 
+### Day 1-2: February 6, 2017 
+
+
+**Today's Progress**: Day 1-2 work on c++ bank and i try to fix a bug in my "Client" Class.
+
+
 
 
 
